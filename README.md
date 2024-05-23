@@ -61,7 +61,7 @@ We have included almost everything you need to start your Hugo project. Let's se
 - 🗂️ Categories
 - 🗂️ Category Single
 - 🔍 Search
-
+- test
 ### 📦 Tech Stack
 
 - [Hugo](https://gohugo.io/)
